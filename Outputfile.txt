@@ -1,0 +1,5 @@
+cat appeared 3 time(s) 
+ape appeared 1 time(s) 
+monkey appeared 1 time(s)
+dog appeared 2 time(s)
+turtle appeared 1 time(s)

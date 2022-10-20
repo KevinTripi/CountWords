@@ -1,0 +1,8 @@
+cat
+cat
+cat
+ape
+monkey
+dog
+turtle
+dog
